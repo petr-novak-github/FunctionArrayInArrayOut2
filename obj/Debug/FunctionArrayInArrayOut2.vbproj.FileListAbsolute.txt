@@ -1,0 +1,11 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\FunctionArrayInArrayOut2\bin\Debug\FunctionArrayInArrayOut2.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\FunctionArrayInArrayOut2\bin\Debug\FunctionArrayInArrayOut2.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\FunctionArrayInArrayOut2\bin\Debug\FunctionArrayInArrayOut2.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\FunctionArrayInArrayOut2\bin\Debug\FunctionArrayInArrayOut2.xml
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\FunctionArrayInArrayOut2\obj\Debug\FunctionArrayInArrayOut2.vbprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\FunctionArrayInArrayOut2\obj\Debug\FunctionArrayInArrayOut2.Resources.resources
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\FunctionArrayInArrayOut2\obj\Debug\FunctionArrayInArrayOut2.vbproj.GenerateResource.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\FunctionArrayInArrayOut2\obj\Debug\FunctionArrayInArrayOut2.vbproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\FunctionArrayInArrayOut2\obj\Debug\FunctionArrayInArrayOut2.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\FunctionArrayInArrayOut2\obj\Debug\FunctionArrayInArrayOut2.xml
+C:\Users\petr8\Desktop\cSharpRekavalifikace\01-ucim-se-2021-01-29\01-pole na vstupu i vytupu fce i subrutina\stuff\FunctionArrayInArrayOut2\obj\Debug\FunctionArrayInArrayOut2.pdb
